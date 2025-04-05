@@ -40,4 +40,5 @@ Open the notebook in Jupyter or VS Code and run each cell.
 
 ## License & Attribution
 This project is part of the ExploreAI Academy Data Science curriculum.
+
 Developed by Ibrahim Ambale – GitHub: [GitHub Profile](https://github.com/IbrahimAmbale). 
